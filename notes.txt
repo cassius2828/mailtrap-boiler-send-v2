@@ -1,0 +1,7 @@
+///////////////////////////
+Info About MT variabels
+///////////////////////////
+
+Either from my personal or the placeofgrace business credentials. 
+
+Used as a boiler plate to send emails, just change the vars to new account whenever needed
